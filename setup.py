@@ -13,7 +13,7 @@ setup(
     include_package_data=True,
     package_data = { '': ['README.md'] },
     zip_safe=False,
-    install_requires=['django'],
+    install_requires=[],
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
